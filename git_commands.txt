@@ -1,1 +1,6 @@
 git init => to initialize git
+git add => to add single file
+git add -A => to add all files
+git status => to show untracked files
+git commit -m => to commit files with a msg
+git push =>
